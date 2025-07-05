@@ -39,8 +39,8 @@ This script uses Python's built-in `hashlib` module to compute two popular hashe
 ### 1. Clone the repo or download the script
 
 ```bash
-git clone https://github.com/yourusername/hash-generator.git
+git clone https://github.com/Sepxyt/hashgenerator.git
 cd hash-generator
-python hash_generator.py
+python hashgenerator.py
 
 
